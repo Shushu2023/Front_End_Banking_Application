@@ -7,3 +7,4 @@
 ## Future Improvment
 1.Work of the functionaliy of the login pagae
 2. Persist the state of balance to be able to display it when movign fgorm withdfrawal to deposit page and visa versa
+
